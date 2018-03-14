@@ -70,7 +70,7 @@ public class SEventCardsUtils {
             eventCardModels.add(EventCardModel
                     .newBuilder()
                     .withEventTitle("STREET SOCCER")
-                    .withImageResId(R.drawable.pic_card_3)
+                    .withImageResId(R.drawable.streetsoccer)
                     .withDayPart("SPORTS")
                     .withBackgroundColorResId(R.color.dark_orchid)
                     .build());

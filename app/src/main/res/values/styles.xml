@@ -11,14 +11,6 @@
 
     </style>
 
-    <style name="AppThemeNav" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-    </style>
-
-
     <style name="SportCardStyle">
         <item name="android:textColor">@color/white</item>
     </style>
